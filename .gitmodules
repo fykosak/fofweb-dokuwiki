@@ -34,3 +34,15 @@
 [submodule "lib/plugins/translatemapping"]
 	path = lib/plugins/translatemapping
 	url = https://github.com/fykosak/dokuwiki-plugin-translatemapping
+[submodule "lib/plugins/fkstimer"]
+	path = lib/plugins/fkstimer
+	url = https://github.com/fykosak/dokuwiki-plugin-fkstimer
+[submodule "lib/plugins/fkshelper"]
+	path = lib/plugins/fkshelper
+	url = https://github.com/fykosak/dokuwiki-plugin-fkshelper
+[submodule "lib/plugins/redfoftplhelper"]
+	path = lib/plugins/redfoftplhelper
+	url = https://github.com/fykosak/dokuwiki-plugin-redfoftplhelper
+[submodule "lib/tpl/redfoftpl"]
+	path = lib/tpl/redfoftpl
+	url = https://github.com/fykosak/dokuwiki-template-redfoftpl
