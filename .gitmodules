@@ -30,7 +30,7 @@
 	url = https://github.com/splitbrain/dokuwiki-plugin-data.git
 [submodule "lib/plugins/datatemplate"]
 	path = lib/plugins/datatemplate
-	url = https://github.com/Cyrille37/dokuwiki-plugin-datatemplate.git
+	url = https://github.com/fykosak/dokuwiki-plugin-datatemplate
 [submodule "lib/plugins/translatemapping"]
 	path = lib/plugins/translatemapping
 	url = https://github.com/fykosak/dokuwiki-plugin-translatemapping
