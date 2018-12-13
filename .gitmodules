@@ -46,3 +46,6 @@
 [submodule "lib/tpl/redfoftpl"]
 	path = lib/tpl/redfoftpl
 	url = https://github.com/fykosak/dokuwiki-template-redfoftpl
+[submodule "lib/plugins/social"]
+	path = lib/plugins/social
+	url = https://github.com/fykosak/dokuwiki-plugin-social
